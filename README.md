@@ -19,12 +19,12 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+#### 📊 Projetos em destaque
+##### 🔹 [Projeto de Análise de Dados] 
+##### 🔹 Dashboard de Vendas (Power BI)  
+##### 🔹 Análise com SQL  
+##### 🔗 Confira na aba Projetos e Repositórios
 
-## 📊 Projetos em destaque
-🔹 [Projeto de Análise de Dados] 
-🔹 Dashboard de Vendas (Power BI)  
-🔹 Análise com SQL  
-🔗 Confira na aba Projetos e Repositórios
 ---
 <a href="https://github.com/JIsrael456" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
