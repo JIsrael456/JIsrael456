@@ -39,10 +39,18 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ---
 
 📊 Estatísticas (Most Used Languages) *Em desenvolvimento
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsrael456&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
+### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIsrael456&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+### 📊 Estatísticas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=6" 
+    height="180"
+  />
 </p>
