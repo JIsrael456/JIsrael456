@@ -37,9 +37,6 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 </a>
 
 ---
-
-📊 Estatísticas (Most Used Languages) *Em desenvolvimento
-
 ### 📊 Estatísticas
 
 <table align="center">
