@@ -28,9 +28,9 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ---
 
 ## 📈 Estatísticas
-![GitHub stats](hub.com/JIsrael456)
+![GitHub stats]([[hub.com/JIsrael456](https://github.com/JIsrael456/JIsrael456)](https://github.com/JIsrael456/JIsrael456))
 
 ---
 
 ## 📫 Contato
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN](https://www.linkedin.com/in/jac%C3%B3-israel/))
+[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN](https://www.linkedin.com/in/jac%C3%B3-israel/)](https://www.linkedin.com/in/jac%C3%B3-israel/))
