@@ -35,3 +35,13 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 <a href="mailto:jacoisrael384@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsrael456&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JIsrael456&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+</p>
