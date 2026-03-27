@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Sobre mim
-Atuo com suporte e infraestrutura de TI, com experiência em gestão de usuários, Google Workspace e ambientes corporativos.  
+Atuo com infraestrutura de TI, com experiência em gestão de usuários, Google Workspace e ambientes corporativos.  
 Atualmente focado em desenvolver habilidades em análise de dados, criação de dashboards e suporte à tomada de decisão.
 
 ---
