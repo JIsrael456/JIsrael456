@@ -21,10 +21,10 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ---
 
 ## 📊 Projetos em destaque
-🔹 [Projeto de Análise de Dados](SEU_LINK_PORTFOLIO)  
+🔹 [Projeto de Análise de Dados] 
 🔹 Dashboard de Vendas (Power BI)  
 🔹 Análise com SQL  
-
+🔹 ((https://github.com/JIsrael456?tab=repositories) 
 ---
 <a href="https://github.com/JIsrael456" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
