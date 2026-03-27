@@ -26,6 +26,3 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 🔹 Análise com SQL  
 
 ---
-
-## 📫 Contato
-[![LinkedIn]([(https://www.linkedin.com/in/jac%C3%B3-israel/)](https://www.linkedin.com/in/jac%C3%B3-israel/))
