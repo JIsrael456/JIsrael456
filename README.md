@@ -20,9 +20,7 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 
 ---
 #### 📊 Projetos em destaque
-##### 🔹 [Projeto de Análise de Dados] 
-##### 🔹 Dashboard de Vendas (Power BI)  
-##### 🔹 Análise com SQL  
+##### 🔹 [homelab-infra] 
 ##### 🔗 Confira na aba Projetos e Repositórios
 
 ---
