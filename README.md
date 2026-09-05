@@ -38,13 +38,12 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ### 📊 Estatísticas
 
 <table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight" height="160"/>
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact" height="160"
-+ table layout/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact" height="160"/>
+    </td>
+  </tr>
 </table>
