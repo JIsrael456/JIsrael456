@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jacó Israel
 
-💻 Assistente de TI com foco em Infraestrutura  
+💻 Profissional de TI com foco em Infraestrutura  
 📊 Em transição para Análise de Dados e BI  
 🚀 Construindo projetos com SQL e Power BI  
 
