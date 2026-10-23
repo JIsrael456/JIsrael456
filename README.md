@@ -45,7 +45,7 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 </td>
 
 <td>
-<img src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&hide=html,css,javascript&langs_count=8" height="160"/>
+<img src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript&v=3" height="160"/>
 </td>
 </tr>
 </table>
