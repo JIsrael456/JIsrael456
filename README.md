@@ -38,14 +38,16 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ---
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats-bm77.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact" height="160"/>
+<img src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&hide=html,css,javascript&langs_count=8" height="160"/>
 </td>
 </tr>
 </table>
