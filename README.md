@@ -38,8 +38,6 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 ---
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <table align="center">
 <tr>
 <td>
