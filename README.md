@@ -20,7 +20,8 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 
 ---
 #### 📊 Projetos em destaque
-##### 🔹 [homelab-infra] 
+##### 🔹 [homelab-infra]
+##### 🔹 [analise-chamados-sla]
 ##### 🔗 Confira na aba Projetos e Repositórios
 
 ---
