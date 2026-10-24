@@ -37,6 +37,7 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 
 ---
 
+
 ### 📊 Estatísticas
 
 <table align="center">
@@ -50,6 +51,13 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
     </td>
     <td>
       <img
+        src="https://streak-stats.demolab.com/?user=JIsrael456&theme=tokyonight&hide_border=false"
+        height="160"
+        alt="Sequência de contribuições no GitHub"
+      />
+    </td>
+    <td>
+      <img
         src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript&cache_seconds=43200"
         height="160"
         alt="Linguagens mais utilizadas"
@@ -57,4 +65,5 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
     </td>
   </tr>
 </table>
+
 
