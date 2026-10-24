@@ -36,16 +36,25 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 </a>
 
 ---
+
 ### 📊 Estatísticas
 
 <table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-bm77.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>
-</td>
-
-<td>
-<img src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript&v=3" height="160"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-bm77.vercel.app/api?username=JIsrael456&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=43200"
+        height="160"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript&cache_seconds=43200"
+        height="160"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+  </tr>
 </table>
+
