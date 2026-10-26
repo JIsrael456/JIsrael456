@@ -9,24 +9,47 @@
 ---
 
 ## 🧠 Sobre mim
+
 Atuo com infraestrutura de TI, com experiência em gestão de usuários, Google Workspace e ambientes corporativos.  
 Atualmente focado em desenvolver habilidades em análise de dados, criação de dashboards e suporte à tomada de decisão.
 
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
+
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-#### 📊 Projetos em destaque
-##### 🔹 [[homelab-infra]](https://github.com/JIsrael456/homelab-infra)
-##### 🔹 [[analise-chamados-sla]](https://github.com/JIsrael456/analise-chamados-sla)
-##### 🔗 Confira na aba Projetos e Repositórios
+
+## 📌 Projetos em destaque
+
+### 🖥️ [homelab-infra — Laboratório de Infraestrutura](https://github.com/JIsrael456/homelab-infra)
+
+Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne práticas de infraestrutura corporativa e documentação técnica.
+
+- **Foco:** Windows Server, Active Directory, Linux, Docker, banco de dados e Google Cloud.
+- **Automação e análise:** PowerShell, Shell Script e Power BI.
+- **Objetivo:** integrar tecnologias em um ambiente simulado e documentar a implantação por fases.
+
+➡️ [Explorar o repositório homelab-infra](https://github.com/JIsrael456/homelab-infra)
+
+### 📊 [analise-chamados-sla — Análise de Chamados e SLA](https://github.com/JIsrael456/analise-chamados-sla)
+
+Projeto de análise exploratória de chamados de suporte usando dados sintéticos, consultas SQL e um dashboard no Power BI.
+
+- **Foco:** prioridades, áreas de produto, canais, downtime e indicadores operacionais.
+- **SQL:** agregações, comparações entre grupos e verificações de qualidade dos dados com SQLite.
+- **Power BI:** visualização e exploração dos resultados por meio de um relatório interativo.
+
+➡️ [Explorar o repositório analise-chamados-sla](https://github.com/JIsrael456/analise-chamados-sla)
+
+🔗 Confira também as abas **Repositories** e **Projects** do perfil para ver outros trabalhos.
 
 ---
+
 <a href="https://github.com/JIsrael456" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -38,7 +61,6 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 </a>
 
 ---
-
 
 ### 📊 Estatísticas
 
@@ -67,5 +89,3 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
     </td>
   </tr>
 </table>
-
-
