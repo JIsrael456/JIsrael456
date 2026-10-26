@@ -26,7 +26,7 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 
 ## 📌 Projetos em destaque
 
-### 🖥️ [homelab-infra — Laboratório de Infraestrutura](https://github.com/JIsrael456/homelab-infra)
+### 🖥️ [homelab-infra — Laboratório de Infraestrutura]
 
 Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne práticas de infraestrutura corporativa e documentação técnica.
 
@@ -36,7 +36,7 @@ Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne prát
 
 ➡️ [Explorar o repositório homelab-infra](https://github.com/JIsrael456/homelab-infra)
 
-### 📊 [analise-chamados-sla — Análise de Chamados e SLA](https://github.com/JIsrael456/analise-chamados-sla)
+### 📊 [analise-chamados-sla — Análise de Chamados e SLA]
 
 Projeto de análise exploratória de chamados de suporte usando dados sintéticos, consultas SQL e um dashboard no Power BI.
 
