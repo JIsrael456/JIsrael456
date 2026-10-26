@@ -36,7 +36,7 @@ Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne prát
 
 ➡️ [Explorar o repositório homelab-infra](https://github.com/JIsrael456/homelab-infra)
 
-### 📊 [Análise-chamados-sla — Análise de Chamados e SLA]
+### 📊 [Análise de Chamados e SLA]
 
 Projeto de análise exploratória de chamados de suporte usando dados sintéticos, consultas SQL e um dashboard no Power BI.
 
