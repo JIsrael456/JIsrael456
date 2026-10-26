@@ -22,8 +22,8 @@ Atualmente focado em desenvolver habilidades em análise de dados, criação de 
 
 ---
 #### 📊 Projetos em destaque
-##### 🔹 [homelab-infra]
-##### 🔹 [analise-chamados-sla]
+##### 🔹 [[homelab-infra]](https://github.com/JIsrael456/homelab-infra)
+##### 🔹 [[analise-chamados-sla]](https://github.com/JIsrael456/analise-chamados-sla)
 ##### 🔗 Confira na aba Projetos e Repositórios
 
 ---
