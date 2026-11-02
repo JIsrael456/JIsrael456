@@ -10,8 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Atuo com infraestrutura de TI, com experiência em gestão de usuários, Google Workspace e ambientes corporativos.  
-Atualmente focado em desenvolver habilidades em análise de dados, criação de dashboards e suporte à tomada de decisão.
+Profissional de Tecnologia da Informação com experiência em administração de ambientes corporativos, gestão de identidades e acessos, ITSM e segurança operacional. Desenvolvo projetos que conectam infraestrutura, automação e análise de dados.
 
 ---
 
