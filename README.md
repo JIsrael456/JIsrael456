@@ -25,7 +25,7 @@ Profissional de Tecnologia da Informação com experiência em administração d
 
 ## 📌 Projetos em destaque
 
-### 🖥️ [Homelab-infra — Laboratório de Infraestrutura]
+### 🖥️ Homelab-infra — Laboratório de Infraestrutura
 
 Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne práticas de infraestrutura corporativa e documentação técnica.
 
@@ -35,7 +35,7 @@ Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne prát
 
 ➡️ [Explorar o repositório homelab-infra](https://github.com/JIsrael456/homelab-infra)
 
-### 📊 [Análise de Chamados e SLA]
+### 📊 Análise de Chamados e SLA
 
 Projeto de análise exploratória de chamados de suporte usando dados sintéticos, consultas SQL e um dashboard no Power BI.
 
