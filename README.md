@@ -88,3 +88,5 @@ Projeto de análise exploratória de chamados de suporte usando dados sintético
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/JIsrael456/assets/main/projetos.svg" alt="Projetos em Números" width="100%">
