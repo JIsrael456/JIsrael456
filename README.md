@@ -81,7 +81,7 @@ Projeto de análise exploratória de chamados de suporte usando dados sintético
     </td>
     <td>
       <img
-        src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript&cache_seconds=43200"
+        src="https://github-readme-stats-bm77.vercel.app/api/top-langs/?username=JIsrael456&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=43200"
         height="160"
         alt="Linguagens mais utilizadas"
       />
