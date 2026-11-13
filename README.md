@@ -1,20 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Jac%C3%B3%20Israel&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Infraestrutura%20de%20TI%20%E2%86%92%20An%C3%A1lise%20de%20Dados%20e%20BI&descSize=18&descAlignY=58" width="100%"/>
 
-# 👋 Olá, eu sou o Jacó Israel
+# Olá, eu sou o Jacó Israel
 
-💻 Profissional de TI com foco em Infraestrutura  
-📊 Em transição para Análise de Dados e BI  
-🚀 Construindo projetos com SQL e Power BI  
+Profissional de TI com foco em Infraestrutura  
+Em transição para Análise de Dados e BI  
+Construindo projetos com SQL e Power BI  
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Profissional de Tecnologia da Informação com experiência em administração de ambientes corporativos, gestão de identidades e acessos, ITSM e segurança operacional. Desenvolvo projetos que conectam infraestrutura, automação e análise de dados.
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![POWERBI](https://img.shields.io/badge/POWERBI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJibGFjayIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyIEJJPC90aXRsZT48cGF0aCBkPSJNMTAgMTJhMSAxIDAgMCAxIDEgMXYxMUg0YTEgMSAwIDAgMS0xLTFWMTNhMSAxIDAgMCAxIDEtMWg2Wm0tMi0uNVY3YTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjE3aC00LjVWMTNhMS41IDEuNSAwIDAgMC0xLjUtMS41SDhabTUtNlYxYTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjIyYTEgMSAwIDAgMS0xIDFoLTMuNVY3QTEuNSAxLjUgMCAwIDAgMTUgNS41aC0yWiIvPjwvc3ZnPg%3D%3D)
@@ -24,9 +24,9 @@ Profissional de Tecnologia da Informação com experiência em administração d
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 🖥️ Homelab-infra — Laboratório de Infraestrutura
+### Homelab-infra — Laboratório de Infraestrutura
 
 Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne práticas de infraestrutura corporativa e documentação técnica.
 
@@ -36,7 +36,7 @@ Laboratório de uma empresa fictícia, a **JI Tech Solutions**, que reúne prát
 
 ➡️ [Explorar o repositório homelab-infra](https://github.com/JIsrael456/homelab-infra)
 
-### 📊 Análise de Chamados e SLA
+### Análise de Chamados e SLA
 
 Projeto de análise exploratória de chamados de suporte usando dados sintéticos, consultas SQL e um dashboard no Power BI.
 
@@ -62,7 +62,7 @@ Projeto de análise exploratória de chamados de suporte usando dados sintético
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <table align="center">
   <tr>
